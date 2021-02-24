@@ -3,7 +3,7 @@ import './styles.css'
 const counter = document.getElementById('counter')
 const addBtn = document.getElementById('add')
 const subBtn = document.getElementById('sub')
-const asyncBtn = document.getElementById('async')
+const asyncBtn = document.getElementById('asyncIncrement')
 const themeBtn = document.getElementById('theme')
 
 let state = 0;
